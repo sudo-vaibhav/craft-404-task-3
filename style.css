@@ -9,6 +9,7 @@
   background-size: cover;
   min-height: 80vh;
   background-repeat: no-repeat;
+  background-position: center;
 }
 #swan {
   background: url("./assets/beautiful-16736_1280.png");
