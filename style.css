@@ -1,0 +1,34 @@
+#hero {
+  background: url("./assets/Layer2.png");
+}
+
+#hero,
+#swan,
+#man-back,
+#contact {
+  background-size: cover;
+  min-height: 80vh;
+  background-repeat: no-repeat;
+}
+#swan {
+  background: url("./assets/beautiful-16736_1280.png");
+}
+
+#man-back {
+  background: url("./assets/Layer3.png");
+}
+
+#contact {
+  background: url("./assets/Layer5.png");
+}
+
+#contact input::placeholder,
+#contact textarea::placeholder {
+  color: white;
+}
+#contact input,
+#contact textarea {
+  background: rgba(255, 255, 255, 0.6);
+  border: 2px solid white;
+  color: white;
+}
