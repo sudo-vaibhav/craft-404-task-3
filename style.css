@@ -1,5 +1,5 @@
 #hero {
-  background: url("./assets/Layer2.png");
+  background-image: url("./assets/Layer2.png");
 }
 
 #hero,
@@ -12,15 +12,15 @@
   background-position: center;
 }
 #swan {
-  background: url("./assets/beautiful-16736_1280.png");
+  background-image: url("./assets/beautiful-16736_1280.png");
 }
 
 #man-back {
-  background: url("./assets/Layer3.png");
+  background-image: url("./assets/Layer3.png");
 }
 
 #contact {
-  background: url("./assets/Layer5.png");
+  background-image: url("./assets/Layer5.png");
 }
 
 #contact input::placeholder,
